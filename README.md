@@ -9,5 +9,5 @@ It shows real-time bus movement on Route 96 of MBTA. Each bus is shown on the ma
 - [ ] Add a hover feature to display the bus name, the route number, and which direction the bus is heading.
 - [ ] Add the bus stop locations and estimate time to next bus stop
 ## License Information
-Distributed under the MIT License  
+Distributed under MIT License  
 Please read LICENSE file for further details.
